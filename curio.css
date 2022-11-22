@@ -1,0 +1,20 @@
+body{
+    background: #121212;
+}
+div h1{
+    color: #e51e2a;
+    text-align: center;
+    font-size: 45px;
+}
+div ul li{
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div img{
+    padding: 20px;
+    border-radius: 50px;
+    width: 500px;
+}
